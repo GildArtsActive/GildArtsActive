@@ -1,4 +1,4 @@
-![Local Image](images/aboutmett.png)
+![Local Image](About_me.png)
 
 
 <h1 align="center"> Tech Stack </h1>
