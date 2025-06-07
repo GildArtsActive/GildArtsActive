@@ -1,4 +1,10 @@
 ### 🛠️ Tech Stack
+<div align="center">
+<!-- Your content here -->
+</div>
+<style>
+td { line-height: 1.2; padding: 0 15px; }
+</style>
 <table>
   <tr>
     <td>• PYTHON<br>• DJANGO<br>• REST<br>• FASTAPI<br>• FLASK<br>• JINJA<br>• NUMPY<br>• PANDAS<br>• PLOTLY<br>• SCIKIT-LEARN<br>• TENSORFLOW<br>• KERAS</td>
